@@ -43,16 +43,16 @@ header{
     margin-right: 100px;
     align-items: center;
 }
-
 .box{
+    padding: 32px;;
+}
+.one{
     display: flex;
     justify-content: center;
     padding: 32px;
     padding-bottom: 80px;
     padding-right:80px;
     align-items: center;
-}
-.one{
     gap: 16px;
     background-color: #1F2937;
     justify-content:flex-end;
@@ -98,6 +98,121 @@ li{
     font-size: 16px;
     color: #F9FAF8;
 }
+
+.two{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 64px;
+}
+
+.pic{
+    width: 175px;
+}
+
+h2{
+    
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.categories{
+    display:flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+.categories div div a img{
+    border-radius: 12px;
+    border: solid 5px #3882F6;
+}
+
+.cat-p{
+    color:#777;
+    font-weight:100;
+}
+
+.categories-heading{
+    margin-bottom: 32px;
+}
+
+.three{
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding: 32px;
+}
+
+
+.quote{
+    width: 900px;
+}
+.quote-text{
+    font-size: 30px;
+    font-family: Italic-light;
+    color: #1F2937;
+    margin-left: 32px;
+    font-weight: 100;
+}
+
+.person-1{
+    font-size: 20px;
+}
+
+.person{
+    display: flex;
+    justify-content: flex-end;
+    color: #1F2937;
+    margin-top: 24px;
+}
+
+.four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+}
+
+.light-card{
+    display: flex;
+    background-color: #3882F6;
+    margin: 64px;
+    padding: 64px;
+    width: 1000px;
+    border-radius: 10px;
+    gap: 128px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn2{
+    border:#F9FAF8 solid 4px;
+}
+
+.btn2cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+h3{
+    font-size: 24px;
+    color: #F9FAF8 ;
+}
+
+.pepe{
+    color: #F9FAF8 ;
+    font-size: 20px;
+}
+
 header, footer{
     background-color: #1F2937;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
 }
