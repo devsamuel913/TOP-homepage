@@ -7,3 +7,6 @@ Photo by Andre Moura: https://www.pexels.com/photo/pair-of-brown-leather-shoes-2
 Photo by Javon Swaby: https://www.pexels.com/photo/round-michael-kors-chronograph-watch-2783873/
 Photo by cottonbro studio: https://www.pexels.com/photo/person-holding-clothes-hanger-with-clothes-6068960/
 Photo by George Becker: https://www.pexels.com/photo/clear-glass-bottle-136651/
+
+## Explanation of the process
+In this web page I put much effort, however it certainly has some errors, especially regarding the commits and the buttons
